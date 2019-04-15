@@ -1,3 +1,4 @@
+//Retrieved from https://www.youtube.com/watch?v=eWfZrOE3K_Q
 Shader "maskTexture"
 {
 	Properties
